@@ -1,1 +1,1 @@
-# Project_Recurrent-Neural-Network-for-Stock-Price-Prediction
+# Recurrent Neural Network for Stock Price Prediction
